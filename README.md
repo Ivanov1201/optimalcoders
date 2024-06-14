@@ -1,12 +1,12 @@
-# OptimalCoders Official Website
+# Optimal Coders Official Website
 
-Welcome to the repository for the official website of OptimalCoders. This site is our digital storefront and serves as a comprehensive resource for our clients, partners, and community. Our goal is to provide an intuitive and informative experience for all users.
+Welcome to the repository for the official website of Optimal Coders. This site is our digital storefront and serves as a comprehensive resource for our clients, partners, and community. Our goal is to provide an intuitive and informative experience for all users.
 
 ## Live Server URL
 
 Experience the live version of our website by visiting:
 
-[OptimalCoders Live Site](http://www.optimalcoders.io)
+[Optimal Coders Live Site](http://www.optimalcoders.io)
 
 Please note that any ongoing updates or development work may not immediately be reflected in the live version.
 
